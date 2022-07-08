@@ -2,6 +2,10 @@
 
 sudo docker pull [image_name]
 
+###Сбилдить свой докерфайл
+
+sudo docker build -t [name] .
+
 ### Собрать контейнер
 
 sudo docker run --name [new_name] -it [old_name] bash
