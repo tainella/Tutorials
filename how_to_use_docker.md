@@ -2,7 +2,7 @@
 
 sudo docker pull [image_name]
 
-###Сбилдить свой докерфайл
+### Сбилдить свой докерфайл
 
 sudo docker build -t [name] .
 
