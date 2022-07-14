@@ -27,3 +27,7 @@ sudo docker start [name]
 ### Перейти в запущенный контейнер
 
 sudo docker exec -it [name] /bin/bash
+
+### Посмотреть готовые образы
+
+sudo docker image ls
