@@ -6,6 +6,7 @@ pip wheel --wheel-dir=/folder/ -r requirements.txt .
 
 ### Собрать колесо из уже собранного пакета на локальной машине
 
+pip wheel --wheel-dir=/folder/ packagename
 
 ### Установить пакет из колеса, которое лежит в папке
 
