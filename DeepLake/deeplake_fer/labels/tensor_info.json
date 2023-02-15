@@ -1,0 +1,11 @@
+{
+    "class_names": [
+        "happy",
+        "sad",
+        "fear",
+        "surprise",
+        "neutral",
+        "angry",
+        "disgust"
+    ]
+}
