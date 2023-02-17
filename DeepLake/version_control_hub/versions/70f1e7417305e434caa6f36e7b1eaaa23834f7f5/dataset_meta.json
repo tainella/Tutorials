@@ -1,0 +1,28 @@
+{
+    "default_index": [
+        {
+            "start": null,
+            "step": null,
+            "stop": null
+        }
+    ],
+    "groups": [],
+    "hidden_tensors": [
+        "_images_info",
+        "_images_shape",
+        "_images_id"
+    ],
+    "tensor_names": {
+        "_images_id": "_images_id",
+        "_images_info": "_images_info",
+        "_images_shape": "_images_shape",
+        "images": "images"
+    },
+    "tensors": [
+        "images",
+        "_images_info",
+        "_images_shape",
+        "_images_id"
+    ],
+    "version": "3.2.5"
+}
